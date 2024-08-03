@@ -35,7 +35,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Yanpeng Jia**, Ting Wang^{*}, Fengkui Cao^{*}, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
+**Yanpeng Jia**, Ting Wang$^{*}$, Fengkui Cao$^{*}$, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
 
 [**Project**](https://github.com/Yaepiii/TRLO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
