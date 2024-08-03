@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yanpeng Jia (贾彦鹏)"
-  avatar           : "images/photo.png"
+  avatar           : "images/photo.jpg"
   bio              : "University of Chinese Academy of Sciences (UCAS)"
   location         : "Shenyang, China"
-  employer         : "Prof. Ting Wang (王挺)"
+  employer         : 
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yaepiii@126.com"
