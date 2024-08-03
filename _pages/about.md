@@ -30,19 +30,29 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2025</div><img src='images/cad-mesher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Yanpeng Jia**, Fengkui Cao^*^, Ting Wang^*^, Yandong Tang, Shiliang Shao and Lianqing Liu
+
+[**Project**](https://github.com/Yaepiii/CAD-Mesher) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An accurate, consecutive, and dense meshing module adapting to dynamic environments, which is plug-and-play for conveniently integrating with various LiDAR odometry to further improve the pose estimation accuracy and filter dynamic objects. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='images/trlo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Yanpeng Jia**, Ting Wang$^{*}$, Fengkui Cao$^{*}$, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
+**Yanpeng Jia**, Ting Wang^*^, Fengkui Cao^*^, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
 
 [**Project**](https://github.com/Yaepiii/TRLO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A dynamic LiDAR odometry that can filter dynamic objects through a 3D multi-object tracker and achieve more accurate pose estimation through bounding box posture consistency constraint. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
