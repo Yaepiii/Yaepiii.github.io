@@ -37,7 +37,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 **Yanpeng Jia**, Fengkui Cao\*, Ting Wang\*, Yandong Tang, Shiliang Shao and Lianqing Liu
 
-[**Project**](https://yaepiii.github.io/CAD-Mesher-page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://yaepiii.github.io/CAD-Mesher/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An accurate, consecutive, and dense meshing module adapting to dynamic environments, which is plug-and-play for conveniently integrating with various LiDAR odometry to further improve the pose estimation accuracy and filter dynamic objects. 
 </div>
 </div>
@@ -49,7 +49,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 **Yanpeng Jia**, Ting Wang\*, Fengkui Cao\*, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
 
-[**Project**](https://yaepiii.github.io/TRLO-page/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://yaepiii.github.io/TRLO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A dynamic LiDAR odometry that can filter dynamic objects through a 3D multi-object tracker and achieve more accurate pose estimation through bounding box posture consistency constraint. 
 </div>
 </div>
