@@ -33,7 +33,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2025</div><img src='images/cad-mesher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments](https://arxiv.org/pdf/2408.05981)
 
 **Yanpeng Jia**, Fengkui Cao\*, Ting Wang\*, Yandong Tang, Shiliang Shao and Lianqing Liu
 
