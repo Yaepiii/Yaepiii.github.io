@@ -42,7 +42,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='images/trlo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IM 2025</div><img src='images/trlo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
