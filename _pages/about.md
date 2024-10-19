@@ -23,6 +23,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our paper CAD-Mesher is accepted to IEEE Trans. on MultiMedia 2025!
 - *2024.12*: &nbsp;🎉🎉 Our paper TRLO is accepted to T-IM 2025!
+- *2024.08*: &nbsp;🎉🎉 Our paper C-LOAM is accepted to IEEE ICUS 2024!
 
 # 📖 Educations
 - *2023.09 - present*, Master,  The State Key Laboratory of Robotics at Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.
