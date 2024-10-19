@@ -22,13 +22,25 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our paper CAD-Mesher is accepted to IEEE Trans. on MultiMedia 2025!
-- *2024.12*: &nbsp;🎉🎉 Our paper TRLO is accepted to RA-L 2025!
+- *2024.12*: &nbsp;🎉🎉 Our paper TRLO is accepted to T-IM 2025!
 
 # 📖 Educations
 - *2023.09 - present*, Master,  The State Key Laboratory of Robotics at Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICUS 2025</div><img src='images/c-loam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Compact LiDAR Odometry and Mapping with Dynamic Removal](https://arxiv.org/pdf/2410.13240)
+
+Meifeng Zhang, **Yanpeng Jia**\*, Shiliang Shao\* and Shiyi Wang
+
+[**Project**](https://yaepiii.github.io/C-LOAM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A compact LiDAR odometry that can filter dynamic objects, extract ground points, and segmentation through range image and achieve more accurate pose estimation through ground normal and z-axis constraint. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2025</div><img src='images/cad-mesher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,9 +57,9 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IM 2025</div><img src='images/trlo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://arxiv.org/pdf/2410.13240)
 
-**Yanpeng Jia**, Ting Wang\*, Fengkui Cao\*, Xieyuanli Chen, Shiliang Shao and Lianqing Liu
+**Yanpeng Jia**, Ting Wang\*, Xieyuanli Chen and Shiliang Shao
 
 [**Project**](https://yaepiii.github.io/TRLO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A dynamic LiDAR odometry that can filter dynamic objects through a 3D multi-object tracker and achieve more accurate pose estimation through bounding box posture consistency constraint. 
