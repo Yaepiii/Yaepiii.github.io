@@ -31,18 +31,6 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICUS 2025</div><img src='images/c-loam.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Compact LiDAR Odometry and Mapping with Dynamic Removal](https://arxiv.org/pdf/2410.13240)
-
-Meifeng Zhang, **Yanpeng Jia**\*, Shiliang Shao\* and Shiyi Wang
-
-[**Project**](https://yaepiii.github.io/C-LOAM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A compact LiDAR odometry that can filter dynamic objects, extract ground points, and segmentation through range image and achieve more accurate pose estimation through ground normal and z-axis constraint. 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2025</div><img src='images/cad-mesher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,6 +52,18 @@ Meifeng Zhang, **Yanpeng Jia**\*, Shiliang Shao\* and Shiyi Wang
 
 [**Project**](https://yaepiii.github.io/TRLO/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A dynamic LiDAR odometry that can filter dynamic objects through a 3D multi-object tracker and achieve more accurate pose estimation through bounding box posture consistency constraint. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICUS 2024</div><img src='images/c-loam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Compact LiDAR Odometry and Mapping with Dynamic Removal](https://arxiv.org/pdf/2410.13240)
+
+Meifeng Zhang, **Yanpeng Jia**\*, Shiliang Shao\* and Shiyi Wang
+
+[**Project**](https://yaepiii.github.io/C-LOAM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A compact LiDAR odometry that can filter dynamic objects, extract ground points, and segmentation through range image and achieve more accurate pose estimation through ground normal and z-axis constraint. 
 </div>
 </div>
 
