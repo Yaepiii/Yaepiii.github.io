@@ -39,7 +39,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 **贾彦鹏**, 王挺\*, 邵士亮, 王少聪, 王世逸，曹风魁
 
-[**Project**](https://yaepiii.github.io/CAD-Mesher/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://yaepiii.github.io/GR-LOAM_Plus_Plus/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 这是我们之前工作[GR-LOAM](https://www.sciencedirect.com/science/article/pii/S0921889021000440)和[RGC-SLAM](https://ieeexplore.ieee.org/abstract/document/10654559)的进一步拓展，改进了之前的地面提取方案和特征提取方案，使得算法适用于各种型号的雷达。
 - 另外，通过引入强度特征，以及几何相似性和强度相似性约束，使得算法取得更鲁棒的效果。
 </div>
