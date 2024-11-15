@@ -94,4 +94,4 @@ Meifeng Zhang, **Yanpeng Jia**\*, Shiliang Shao\* and Shiyi Wang
 # 💻 Academic Services
 Conference Reviewer: CVPR, ICCV, ECCV, IROS, ICRA, ICUS, ASCC
 
-Journal Reviewer: T-RO, RA-L, T-MM, T-IV, T-IM
+Journal Reviewer: T-RO, RA-L, T-MM, T-ITS, T-IV, T-IM，机器人
