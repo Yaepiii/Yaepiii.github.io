@@ -21,8 +21,9 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our paper CAD-Mesher is accepted to IEEE Trans. on MultiMedia 2025!
-- *2024.12*: &nbsp;🎉🎉 Our paper TRLO is accepted to T-IM 2025!
+- *2024.11*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is submitted to 《机器人》!
+- *2024.10*: &nbsp;🎉🎉 Our paper TRLO is submitted to T-IM 2025!
+- *2024.09*: &nbsp;🎉🎉 Our paper CAD-Mesher is submitted to IEEE Trans. on MultiMedia 2025!
 - *2024.08*: &nbsp;🎉🎉 Our paper C-LOAM is accepted to IEEE ICUS 2024!
 
 # 📖 Educations
@@ -30,6 +31,19 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">机器人</div><img src='images/gr-loam++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[面向地面机器人的通用鲁棒激光SLAM技术](https://yaepiii.github.io/)
+
+**贾彦鹏**, 王挺\*, 邵士亮, 王少聪, 王世逸，曹风魁
+
+[**Project**](https://yaepiii.github.io/CAD-Mesher/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 这是我们之前工作[GR-LOAM](https://www.sciencedirect.com/science/article/pii/S0921889021000440)和[RGC-SLAM](https://ieeexplore.ieee.org/abstract/document/10654559)的进一步拓展，改进了之前的地面提取方案和特征提取方案，使得算法适用于各种型号的雷达。
+- 另外，通过引入强度特征，以及几何相似性和强度相似性约束，使得算法取得更鲁棒的效果。
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2025</div><img src='images/cad-mesher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
