@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is accepted to 《机器人》!
 - *2024.11*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is submitted to 《机器人》!
 - *2024.10*: &nbsp;🎉🎉 Our paper TRLO is submitted to T-IM 2025!
 - *2024.09*: &nbsp;🎉🎉 Our paper CAD-Mesher is submitted to IEEE Trans. on MultiMedia 2025!
