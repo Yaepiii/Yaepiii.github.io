@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our paper M2UD is accepted to IJRR 2025!
 - *2025.02*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is accepted to 《机器人》!
 - *2024.11*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is submitted to 《机器人》!
 - *2024.10*: &nbsp;🎉🎉 Our paper TRLO is submitted to T-IM 2025!
@@ -32,6 +33,20 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR 2025</div><img src='images/m2ud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://yaepiii.github.io/)
+
+**贾彦鹏**, 王挺\*, 邵士亮, 王少聪, 王世逸，曹风魁
+
+[**Project**](https://yaepiii.github.io/M2UD/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- To advance the application of SLAM in ground robots, we present a multi-modal, multi-scenario, uneven-terrain SLAM dataset, collected using two special ground robot platforms equipped with well-calibrated multi-channel LiDAR, RGB-D cameras, high-frequency IMUs, and GNSS.
+- To reproduce various common application scenarios of ground robots, the dataset includes 58 sequences across 12 categories, collected from a diverse set of highly challenging environments, including urban areas, rural regions, open fields, long corridors, plazas, underground parking, and mixed scenarios, covering a total distance of over 50 km. 
+- We collect data under extreme weather conditions, including darkness, smoke, snow, sand, and dust, to support researchers in developing SLAM solutions for such extreme situations.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">机器人</div><img src='images/gr-loam++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
