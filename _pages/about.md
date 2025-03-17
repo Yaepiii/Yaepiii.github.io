@@ -42,8 +42,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 **Yanpeng Jia**, Shiyi Wang, Shiliang Shao\*, Yue Wang, Fu Zhang，Ting Wang\*
 
 [**Project**](https://yaepiii.github.io/M2UD/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- To advance the application of SLAM in ground robots, we present a multi-modal, multi-scenario, uneven-terrain SLAM dataset, collected using two special ground robot platforms equipped with well-calibrated multi-channel LiDAR, RGB-D cameras, high-frequency IMUs, and GNSS.
-- To reproduce various common application scenarios of ground robots, the dataset includes 58 sequences across 12 categories, collected from a diverse set of highly challenging environments, including urban areas, rural regions, open fields, long corridors, plazas, underground parking, and mixed scenarios, covering a total distance of over 50 km. 
+- The dataset includes 58 sequences across 12 categories, collected from a diverse set of highly challenging environments, including urban areas, rural regions, open fields, long corridors, and mixed scenarios, etc, covering a total distance of over 50 km. 
 - We collect data under extreme weather conditions, including darkness, smoke, snow, sand, and dust, to support researchers in developing SLAM solutions for such extreme situations.
 </div>
 </div>
