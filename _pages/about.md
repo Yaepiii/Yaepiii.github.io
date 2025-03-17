@@ -39,7 +39,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 [M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://yaepiii.github.io/)
 
-**贾彦鹏**, 王挺\*, 邵士亮, 王少聪, 王世逸，曹风魁
+**Yanpeng Jia**, Shiyi Wang, Shiliang Shao\*, Yue Wang, Fu Zhang，Ting Wang\*
 
 [**Project**](https://yaepiii.github.io/M2UD/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - To advance the application of SLAM in ground robots, we present a multi-modal, multi-scenario, uneven-terrain SLAM dataset, collected using two special ground robot platforms equipped with well-calibrated multi-channel LiDAR, RGB-D cameras, high-frequency IMUs, and GNSS.
@@ -53,7 +53,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 [面向地面机器人的通用鲁棒激光SLAM技术](https://yaepiii.github.io/)
 
-**贾彦鹏**, 王挺\*, 邵士亮, 王少聪, 王世逸，曹风魁
+**贾彦鹏**, 王挺, 邵士亮\*, 王少聪, 王世逸，曹风魁
 
 [**Project**](https://yaepiii.github.io/GR-LOAM_Plus_Plus/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 这是我们之前工作[GR-LOAM](https://www.sciencedirect.com/science/article/pii/S0921889021000440)和[RGC-SLAM](https://ieeexplore.ieee.org/abstract/document/10654559)的进一步拓展，改进了之前的地面提取方案和特征提取方案，使得算法适用于各种型号的雷达。
