@@ -37,7 +37,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR 2025</div><img src='images/m2ud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://yaepiii.github.io/)
+[M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://arxiv.org/pdf/2503.12387)
 
 **Yanpeng Jia**, Shiyi Wang, Shiliang Shao\*, Yue Wang, Fu Zhang，Ting Wang\*
 
