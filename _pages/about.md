@@ -21,14 +21,14 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is accepted by IEEE Trans. on MultiMedia 2025!
-- *2025.04*: &nbsp;🎉🎉 Our paper TRLO is accepted by IEEE T-IM 2025!
+- *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted****** by IEEE Trans. on MultiMedia 2025!
+- *2025.04*: &nbsp;🎉🎉 Our paper TRLO is **accepted** by IEEE T-IM 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper M2UD is submitted to IJRR 2025!
-- *2025.02*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is accepted by 《机器人》!
+- *2025.02*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is **accepted** by 《机器人》!
 - *2024.11*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is submitted to 《机器人》!
 - *2024.10*: &nbsp;🎉🎉 Our paper TRLO is submitted to IEEE T-IM 2025!
 - *2024.09*: &nbsp;🎉🎉 Our paper CAD-Mesher is submitted to IEEE Trans. on MultiMedia 2025!
-- *2024.08*: &nbsp;🎉🎉 Our paper C-LOAM is accepted to IEEE ICUS 2024!
+- *2024.08*: &nbsp;🎉🎉 Our paper C-LOAM is **accepted** to IEEE ICUS 2024!
 
 # 📖 Educations
 - *2023.09 - present*, Master,  The State Key Laboratory of Robotics at Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.
