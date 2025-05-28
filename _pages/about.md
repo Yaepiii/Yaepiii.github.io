@@ -46,6 +46,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 [**Project**](https://yaepiii.github.io/STEP-Mover/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - STEP-Mover progressively identifies the region of potential dynamic points in the prior map in a coarse-to-fine-to-refine strategy with mulit-scale descriptor.
+- Introduce a fine static point retrieval module, which restores static areas out of sight through a high point extension strategy and guides fine ground recovery using coarsely extracted ground priors.
 </div>
 </div>
 
