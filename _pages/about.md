@@ -21,8 +21,9 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accept** to IROS 2025!
 - *2025.05*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to T-TIS 2025!
-- *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted****** by IEEE Trans. on MultiMedia 2025!
+- *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE Trans. on MultiMedia 2025!
 - *2025.04*: &nbsp;🎉🎉 Our paper TRLO is **accepted** by IEEE T-IM 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper M2UD is submitted to IJRR 2025!
 - *2025.02*: &nbsp;🎉🎉 Our paper 《面向地面机器人的通用鲁棒激光SLAM技术》 is **accepted** by 《机器人》!
@@ -36,6 +37,19 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fusion_scene_context.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season
+
+Fengkui Cao\1, **Yanpeng Jia\1**, Ting Wang\*, Xieyuanli Chen, Hesheng Wang
+
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel compact image model of LiDAR point cloud is proposed to integrate projection geometry structures in bird-view and surround-view together, which is well textured highlighting the edges and layouts of scene.
+- A new LiDAR place recognition method integrates scan context from multiple views into a global descriptor without relying on deep learning methods, thus operating online using a single CPU across diverse environments.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-TIS 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
