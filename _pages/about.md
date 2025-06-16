@@ -22,7 +22,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accept** to IROS 2025!
-- *2025.05*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to T-TIS 2025!
+- *2025.05*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to T-GRS 2025!
 - *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE Trans. on MultiMedia 2025!
 - *2025.04*: &nbsp;🎉🎉 Our paper TRLO is **accepted** by IEEE T-IM 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper M2UD is submitted to IJRR 2025!
@@ -51,12 +51,12 @@ Fengkui Cao\*$, **Yanpeng Jia\***, Ting Wang, Xieyuanli Chen, Hesheng Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-TIS 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-GRS 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [STEP-Mover: Stratified and Tiered Elimination Process for Efficient LiDAR Dynamic Removal](https://arxiv.org/pdf/2503.12387)
 
-**Yanpeng Jia\***, Ting Wang\*, Shiliang Shao, Xieyuanli Chen
+**Yanpeng Jia**, Ting Wang\*, Shiliang Shao\*, Xieyuanli Chen
 
 [**Project**](https://yaepiii.github.io/STEP-Mover/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - STEP-Mover progressively identifies the region of potential dynamic points in the prior map in a coarse-to-fine-to-refine strategy with mulit-scale descriptor.
