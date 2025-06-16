@@ -43,7 +43,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season
 
-Fengkui Cao\1, **Yanpeng Jia\1**, Ting Wang\*, Xieyuanli Chen, Hesheng Wang
+Fengkui Cao\*$, **Yanpeng Jia\***, Ting Wang, Xieyuanli Chen, Hesheng Wang
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel compact image model of LiDAR point cloud is proposed to integrate projection geometry structures in bird-view and surround-view together, which is well textured highlighting the edges and layouts of scene.
