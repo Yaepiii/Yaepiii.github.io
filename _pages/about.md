@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to ICRA 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
 - *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accept** to IROS 2025!
 - *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE T-MM 2025!
@@ -38,16 +39,17 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fusion_scene_context.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/cvat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season
+[CVAT: A Curved Voxel Association Triangle Descriptor for Universal LiDAR Place Recognition](https://yaepiii.github.io/CVAT/)
 
-Fengkui Cao†, **Yanpeng Jia†**, Ting Wang, Xieyuanli Chen, Hesheng Wang
+**Yanpeng Jia**, Shaocong Wang\*, Ting Wang\*, Xianyuan Zhu, Shiliang Shao
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A novel compact image model of LiDAR point cloud is proposed to integrate projection geometry structures in bird-view and surround-view together, which is well textured highlighting the edges and layouts of scene.
-- A new LiDAR place recognition method integrates scan context from multiple views into a global descriptor without relying on deep learning methods, thus operating online using a single CPU across diverse environments.
+[**Project**](https://yaepiii.github.io/CVAT/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Construct a universal descriptor for multi-modal LiDARs based on curved voxels, comprising a lightweight curved-surface descriptor and a discriminative triangle descriptor that integrates local occupancy with spatial topological information.
+- Propose the FOV Alignment strategy and the triangle matching verification method, enabling robust place recognition and precise 6-DOF pose estimation even
+under substantial differences in LiDAR viewpoint, FOV, and point cloud density.
 </div>
 </div>
 
@@ -61,6 +63,19 @@ Fengkui Cao†, **Yanpeng Jia†**, Ting Wang, Xieyuanli Chen, Hesheng Wang
 [**Project**](https://yaepiii.github.io/STEP-Mover/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - STEP-Mover progressively identifies the region of potential dynamic points in the prior map in a coarse-to-fine-to-refine strategy with mulit-scale descriptor.
 - Introduce a fine static point retrieval module, which restores static areas out of sight through a high point extension strategy and guides fine ground recovery using coarsely extracted ground priors.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fusion_scene_context.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season
+
+Fengkui Cao†, **Yanpeng Jia†**, Ting Wang, Xieyuanli Chen, Hesheng Wang
+
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A novel compact image model of LiDAR point cloud is proposed to integrate projection geometry structures in bird-view and surround-view together, which is well textured highlighting the edges and layouts of scene.
+- A new LiDAR place recognition method integrates scan context from multiple views into a global descriptor without relying on deep learning methods, thus operating online using a single CPU across diverse environments.
 </div>
 </div>
 
