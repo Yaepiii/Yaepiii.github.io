@@ -21,7 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to ICRA 2026!
+- *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
 - *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accept** to IROS 2025!
 - *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE T-MM 2025!
@@ -39,7 +39,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/cvat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XXXX 2026</div><img src='images/cvat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CVAT: A Curved Voxel Association Triangle Descriptor for Universal LiDAR Place Recognition](https://yaepiii.github.io/CVAT/)
