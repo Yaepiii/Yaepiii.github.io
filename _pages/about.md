@@ -23,7 +23,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
-- *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accept** to IROS 2025!
+- *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accepted** to IROS 2025!
 - *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE T-MM 2025!
 - *2025.04*: &nbsp;🎉🎉 Our paper TRLO is **accepted** by IEEE T-IM 2025!
 - *2025.03*: &nbsp;🎉🎉 Our paper M2UD is submitted to IJRR 2025!
