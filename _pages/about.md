@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper M2UD is **accepted** to IJRR 2025!
 - *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
 - *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accepted** to IROS 2025!
