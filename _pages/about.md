@@ -83,7 +83,7 @@ Fengkui Cao†, **Yanpeng Jia†**, Ting Wang, Xieyuanli Chen, Hesheng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR 2025</div><img src='images/m2ud.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://journals.sagepub.com/doi/10.1177/02783649251401224)
+[M2UD: A Multi-model, Multi-scenario, Uneven-terrain Dataset for Ground Robot with Localization and Mapping Evaluation](https://journals.sagepub.com/doi/abs/10.1177/02783649251401224?mi=ehikzz)
 
 **Yanpeng Jia**, Shiyi Wang, Shiliang Shao\*, Yue Wang, Fu Zhang，Ting Wang\*
 
