@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper 《DE-Planner: 一种面向无人机导航的高效端到端动态规划器》 is **accepted** by 《机器人》!
 - *2025.11*: &nbsp;🎉🎉 Our paper M2UD is **accepted** to IJRR 2025!
 - *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
 - *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
@@ -39,6 +40,19 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">机器人</div><img src='images/de-planner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DE-Planner: 一种面向无人机导航的高效端到端动态规划器](https://yaepiii.github.io/)
+
+姚嘉伟, **贾彦鹏**, 王挺\*, 孙平, 朱先圆，曹风魁\*
+
+[**Project**](https://yaepiii.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 提出了一种基于蒙特卡洛聚类跟踪的算法框架对深度相机输入的点云图像进行处理，并将结果反馈给神经网络，以增强对动态障碍物的识别和生成较为准确的路径
+- 提出了混合轨迹成本策略和动态加权的终端感知机制，解决了对局部危险区域不敏感的问题，增强了目标导向，使得无人机在飞行时更加安全高效
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XXXX 2026</div><img src='images/cvat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
