@@ -24,7 +24,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2026.01*: &nbsp;🎉🎉 Our paper 《DE-Planner: 一种面向无人机导航的高效端到端动态规划器》 is **accepted** by 《机器人》!
 - *2025.11*: &nbsp;🎉🎉 Our paper M2UD is **accepted** to IJRR 2025!
 - *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
-- *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to RA-L 2025!
+- *2025.08*: &nbsp;🎉🎉 Our paper STEP-Mover is submitted to T-IM 2025!
 - *2025.05*: &nbsp;🎉🎉 Our paper Fusion Scene Context is **accepted** to IROS 2025!
 - *2024.04*: &nbsp;🎉🎉 Our paper CAD-Mesher is **accepted** by IEEE T-MM 2025!
 - *2025.04*: &nbsp;🎉🎉 Our paper TRLO is **accepted** by IEEE T-IM 2025!
@@ -68,7 +68,7 @@ under substantial differences in LiDAR viewpoint, FOV, and point cloud density.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IM 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [STEP-Mover: Stratified and Tiered Elimination Process for Efficient LiDAR Dynamic Removal](https://arxiv.org/pdf/2503.12387)
