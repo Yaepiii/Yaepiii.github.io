@@ -72,9 +72,9 @@ under substantial differences in LiDAR viewpoint, FOV, and point cloud density.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IM 2025</div><img src='images/step_mover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STEP-Mover: Stratified and Tiered Elimination Process for Efficient LiDAR Dynamic Removal](https://arxiv.org/pdf/2503.12387)
+[STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://arxiv.org/pdf/2503.12387)
 
-**Yanpeng Jia**, Ting Wang\*, Shiliang Shao, Xieyuanli Chen
+**Yanpeng Jia**, Ting Wang\*, Shiliang Shao, Xieyuanli Chen, Hao Liu
 
 [**Project**](https://yaepiii.github.io/STEP-Mover/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - STEP-Mover progressively identifies the region of potential dynamic points in the prior map in a coarse-to-fine-to-refine strategy with mulit-scale descriptor.
