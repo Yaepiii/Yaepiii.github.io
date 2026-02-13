@@ -21,6 +21,7 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper STEP-Mover is **accepted** to T-IM 2025!
 - *2026.01*: &nbsp;🎉🎉 Our paper 《DE-Planner: 一种面向无人机导航的高效端到端动态规划器》 is **accepted** by 《机器人》!
 - *2025.11*: &nbsp;🎉🎉 Our paper M2UD is **accepted** to IJRR 2025!
 - *2025.09*: &nbsp;🎉🎉 Our paper CVAT is submitted to XXXX 2026!
