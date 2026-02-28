@@ -74,7 +74,7 @@ under substantial differences in LiDAR viewpoint, FOV, and point cloud density.
 
 [STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://arxiv.org/pdf/2503.12387)
 
-**Yanpeng Jia**, Ting Wang\*, Shiliang Shao, Xieyuanli Chen, Hao Liu
+**Yanpeng Jia**, Ting Wang\*, Shiliang Shao\*, Xieyuanli Chen, Hao Liu
 
 [**Project**](https://yaepiii.github.io/STEP-Mover/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - STEP-Mover progressively identifies the region of potential dynamic points in the prior map in a coarse-to-fine-to-refine strategy with mulit-scale descriptor.
@@ -87,7 +87,7 @@ under substantial differences in LiDAR viewpoint, FOV, and point cloud density.
 
 [Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246014)
 
-Fengkui Cao†, **Yanpeng Jia†**, Ting Wang, Xieyuanli Chen, Hesheng Wang
+Fengkui Cao†, **Yanpeng Jia†**, Ting Wang\*, Xieyuanli Chen, Hesheng Wang
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel compact image model of LiDAR point cloud is proposed to integrate projection geometry structures in bird-view and surround-view together, which is well textured highlighting the edges and layouts of scene.
