@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of Mechanical Engineering from Harbin Institute of Technology, Weihai, China in 2023. I'm currently pursuing the M.S degree with the Shenyang Institute of Automation, Chinese Academy of Sciences. My current research interests include robot control, LiDAR Odometry and dynamic SLAM.
+My name is Yanpeng Jia (贾彦 peng). I received the B.S. degree from the Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China, in 2023, and the M.S. degree from the Shenyang Institute of Automation, Chinese Academy of Sciences. I am currently working as an Algorithm Engineer at X Research Department, JD Logistics. My research during my master’s program centered on robot control, LiDAR odometry and dynamic SLAM. Presently, my research interests cover real-time map perception (RMP), localization, 4D Gaussian Splatting (4DGS), and world models.
 
 
 # 🔥 News
@@ -37,7 +37,8 @@ My name is Yanpeng Jia (贾彦鹏), I received the B.S. degree in Department of 
 - *2024.08*: &nbsp;🎉🎉 Our paper C-LOAM is **accepted** to IEEE ICUS 2024!
 
 # 📖 Educations
-- *2023.09 - present*, Master,  The State Key Laboratory of Robotics at Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.
+- *2026.07 - present*, Master,  X Research Department, JD Logistics, Beijing, China.
+- *2023.09 - 2026.06*, Master,  The State Key Laboratory of Robotics at Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China.
 - *2019.09 - 2023.06*, Undergraduate, Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China.
 
 # 📝 Publications 
