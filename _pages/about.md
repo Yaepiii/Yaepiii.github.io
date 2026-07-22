@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yanpeng Jia (贾彦 peng). I received the B.S. degree from the Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China, in 2023, and the M.S. degree from the Shenyang Institute of Automation, Chinese Academy of Sciences. I am currently working as an Algorithm Engineer at X Research Department, JD Logistics. My research during my master’s program centered on robot control, LiDAR odometry and dynamic SLAM. Presently, my research interests cover real-time map perception (RMP), localization, 4D Gaussian Splatting (4DGS), and world models.
+My name is Yanpeng Jia (贾彦鹏). I received the B.S. degree from the Department of Mechanical Engineering, Harbin Institute of Technology, Weihai, China, in 2023, and the M.S. degree from the Shenyang Institute of Automation, Chinese Academy of Sciences. I am currently working as an Algorithm Engineer at X Research Department, JD Logistics. My research during my master’s program centered on robot control, LiDAR odometry and dynamic SLAM. Presently, my research interests cover real-time map perception (RMP), localization, 4D Gaussian Splatting (4DGS), and world models.
 
 
 # 🔥 News
